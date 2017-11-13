@@ -1,0 +1,88 @@
+{
+"Result": {
+"Rows": [
+{
+"Id": 21564,
+"Dimension": "成就员工",
+"StartTime": "2017-10-01",
+"KeyIndex": "员工满意度",
+"TypeSubName": "A目标",
+"Actuality": "70分",
+"OutcomeReview": "",
+"Analysis": "",
+"ImprovementPlan": "",
+"Remarks": "",
+"TargetLevel": "0001",
+"ViewScoringValue": "0",
+"IsDeliberate": 0,
+"UserId": "test2",
+"Sub": [
+{
+"Strategy": "\"了解员工需求\n员工满意度调查\"\"了解员工需求\n员工满意度调查\"\"了解员工需求\n员工满意度调查\"",
+"InspectionWork": "聊天谈话",
+"ActionPlan": "\"和员工沟通\n制定员工满意度调查表\"",
+"Quantification": "85分",
+"ViewScoring": ""
+},
+{
+"Strategy": "\"了解员工需求\n员工满意度调查\"",
+"InspectionWork": "聊天谈话\"了解员工需求\n员工满意度调查\"聊天谈话\"了解员工需求\n员工满意度调查\"聊天谈话\"了解员工需求\n员工满意度调查\"",
+"ActionPlan": "\"和员工沟通\n制定员工满意度调查表\"",
+"Quantification": "85分",
+"ViewScoring": ""
+},
+{
+"Strategy": "\"了解员工需求\n员工满意度调查\"\"了解员工需求\n员工满意度调查\"",
+"InspectionWork": "聊天谈话",
+"ActionPlan": "\"和员工沟通\n制定员工满意度调查表\"",
+"Quantification": "85分\"了解员工需求\n员工满意度调查\"\"了解员工需求\n员工满意度调查\"\"了解员工需求\n员工满意度调查\"",
+"ViewScoring": ""
+}
+]
+}
+],
+"Columns": [
+{
+"Dimension": "维度",
+"KeyIndex": "关键指标",
+"Quantification": "结果",
+"TypeSubName": "目标级别",
+"Actuality": "按现状预计",
+"Strategy": "策略",
+"InspectionWork": "重点检视",
+"ActionPlan": "行动计划",
+"OutcomeReview": "成果检视",
+"ViewScoringValue": "打分",
+"Analysis": "原因分析",
+"ImprovementPlan": "改进计划",
+"Remarks": "上级评议"
+}
+],
+"CIndex": [
+{
+"Dimension": "0",
+"KeyIndex": "1",
+"Quantification": "2",
+"TypeSubName": "3",
+"Actuality": "4",
+"Sub":{"Index":5,"SubIndex": {
+"Strategy": "6",
+"InspectionWork": "7",
+"ActionPlan": "8",
+"Quantification": "9",
+"ScoringValue": "10"
+}},
+"ActionPlan": "12",
+"OutcomeReview": "13",
+"ViewScoring": "14",
+"Analysis": "15",
+"ImprovementPlan": "16",
+"Remarks": "17"
+}
+]
+},
+"IsSuccess": true,
+"Message": "操作成功",
+"Code": 200,
+"Total": 0
+}
