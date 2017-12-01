@@ -7,7 +7,7 @@
 //
 
 #import "ZSBReoprtFormSubModel.h"
-#import "ZSBReportFormModel.h"
+#import "ZSBReportFormDefine.h"
 
 @implementation ZSBReoprtFormSubModel
 

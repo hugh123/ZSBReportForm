@@ -7,6 +7,7 @@
 //
 
 #import "ZSBReportFormModel.h"
+#import "ZSBReportFormDefine.h"
 
 @implementation ZSBReportFormModel
 

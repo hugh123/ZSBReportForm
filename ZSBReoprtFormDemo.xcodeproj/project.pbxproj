@@ -44,6 +44,7 @@
 /* Begin PBXFileReference section */
 		B10BCA4F1FB825CD0085B124 /* ZSBReportFormLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZSBReportFormLayout.h; sourceTree = "<group>"; };
 		B10BCA501FB825CD0085B124 /* ZSBReportFormLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZSBReportFormLayout.m; sourceTree = "<group>"; };
+		B156109F1FB9748C00EEE377 /* ZSBReportFormDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZSBReportFormDefine.h; sourceTree = "<group>"; };
 		B1EB635F1FB5801C00EA1481 /* ZSBReoprtFormDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZSBReoprtFormDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1EB63621FB5801C00EA1481 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B1EB63631FB5801C00EA1481 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -185,6 +186,7 @@
 		B1EB63A11FB583E600EA1481 /* Utility */ = {
 			isa = PBXGroup;
 			children = (
+				B156109F1FB9748C00EEE377 /* ZSBReportFormDefine.h */,
 			);
 			path = Utility;
 			sourceTree = "<group>";

@@ -23,6 +23,7 @@
 @implementation ZSBReportFormLayout
 
 - (void)setWidths:(NSArray *)widthList andHeights:(NSArray *)heightList {
+    self.itemAttributes = nil;
     self.widths = widthList;
     self.heights = heightList;
 }

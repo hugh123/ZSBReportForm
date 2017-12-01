@@ -8,6 +8,8 @@
 
 #import "ZSBReportFormViewItemCell.h"
 #import "ZSBReportFormButton.h"
+#import "ZSBReportFormDefine.h"
+
 
 @interface ZSBReportFormViewItemCell()
 
